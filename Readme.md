@@ -1,0 +1,1 @@
+Esse projeto e uma página criada através do gpt e editada manualmente
