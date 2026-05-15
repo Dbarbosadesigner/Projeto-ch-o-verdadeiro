@@ -1,13 +1,9 @@
-<<<<<<< HEAD
-
-    * {
+  * {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
   
     }
-
-    
 
     body {
       font-family: 'Montserrat', sans-serif;
@@ -499,7 +495,6 @@
       justify-content: center;
     }
   }
-=======
 
     * {
       margin: 0;
@@ -992,4 +987,3 @@
       justify-content: center;
     }
   }
->>>>>>> 886691a665b64f83b600bae20c0a7a96f6da7b24
